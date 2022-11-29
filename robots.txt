@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://km.del.ac.id/sitemap.xml
+Sitemap: http://schedules.api.gallery.streamdata.io/sitemap.xml
